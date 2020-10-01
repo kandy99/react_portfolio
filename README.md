@@ -1,3 +1,5 @@
+This is my resume created using React app follow instruction to create your own portfolio
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
